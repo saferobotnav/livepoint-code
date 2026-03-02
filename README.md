@@ -2,7 +2,7 @@
 
 LivePoint enables Vision-Based, Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Social Mini-Games via Depth Sensor Input.
 
-This is an anonymized version of this code base for MRS2025 submission. Visit our anonymized website: [website](https://saferobotnav.github.io/livepoint.mrs2025/) for more information.
+This is an anonymized version of this code base for IROS2026 submission. Visit our anonymized website: [website](https://saferobotnav.github.io/livepoint.mrs2025/) for more information.
 
 ## **Set Up**
 
